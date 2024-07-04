@@ -1,7 +1,7 @@
 # Distilling Semantic Priors from SAM to Efficient Image Restoration Models.
 The pytorch implementation of the paper **[Distilling Semantic Priors from SAM to Efficient Image Restoration Models](https://arxiv.org/pdf/2403.16368)**
 
-The code will be released soon.
+- The code will be released soon.
 
 ### Installation
 This implementation based on [BasicSR](https://github.com/xinntao/BasicSR) which is a open source toolbox for image/video restoration tasks and [HINet](https://github.com/megvii-model/HINet) 
