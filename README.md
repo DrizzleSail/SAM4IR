@@ -1,6 +1,15 @@
 # Distilling Semantic Priors from SAM to Efficient Image Restoration Models.
 The code will be released soon.
 
+### Installation
+This implementation based on [BasicSR](https://github.com/xinntao/BasicSR) which is a open source toolbox for image/video restoration tasks and [HINet](https://github.com/megvii-model/HINet) 
+
+```python
+python 3.9.5
+pytorch 1.11.0
+cuda 11.3
+```
+
 ### Citations
 If SAM4IR helps your research or work, please consider citing NAFNet.
 
