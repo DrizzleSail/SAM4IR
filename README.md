@@ -15,7 +15,7 @@ cuda 11.3
 ```
 
 ### Citations
-If SAM4IR helps your research or work, please consider citing NAFNet.
+If SAM4IR helps your research or work, please consider citing SAM4IR.
 
 ```
 @inproceedings{zhang2024distilling,
